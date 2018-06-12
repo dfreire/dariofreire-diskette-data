@@ -1,0 +1,10 @@
+{
+    "title": "Series",
+    "tabs": [{
+        "title": "EN",
+        "fields": [
+            { "key": "title_en", "label": "Title", "type": "text" },
+            { "key": "tags_en", "label": "Tags", "type": "text" }
+        ]
+    }]
+}

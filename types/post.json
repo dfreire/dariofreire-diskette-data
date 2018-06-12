@@ -1,0 +1,12 @@
+{
+    "title": "Post",
+    "tabs": [{
+        "title": "EN",
+        "fields": [
+            { "key": "title_en", "label": "Title", "type": "text" },
+            { "key": "date_en", "label": "Date", "type": "text" },
+            { "key": "tags_en", "label": "Tags", "type": "text" },
+            { "key": "text_en", "label": "Text", "type": "textarea" }
+        ]
+    }]
+}
