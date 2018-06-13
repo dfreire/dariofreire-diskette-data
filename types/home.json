@@ -3,7 +3,12 @@
     "tabs": [{
         "title": "EN",
         "fields": [
-            { "key": "title_en", "label": "Title", "type": "text" }
+            { "key": "title_en", "label": "Title", "type": "text" },
+            { "key": "about_en", "label": "About", "type": "textarea" },
+            { "key": "twitter_link", "label": "Twitter Link", "type": "link" },
+            { "key": "github_link", "label": "GitHub Link", "type": "link" },
+            { "key": "contact_form_link", "label": "Contact Form", "type": "link" },
+            { "key": "avatar", "label": "Avatar", "type": "image" }
         ]
     }]
 }

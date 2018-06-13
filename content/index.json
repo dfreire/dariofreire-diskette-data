@@ -1,6 +1,1 @@
-{
-    "type": "home",
-    "fields": {
-        "title_en": "Dário Freire"
-    }
-}
+{"type":"home","fields":{"title_en":"Dário Freire","twitter_link":"https://twitter.com/dfreire","github_link":"https://github.com/dfreire","avatar":"avatar-ivo-flor.jpg","about_en":"I am a software engineer from Portugal with more than 17 years of professional experience. I own a small software company, but I work mostly as a contractor for startups or larger businesses.\n\nHere, I write about my projects and the technologies I use and love: Javascript, Typescript, Nodejs, React, React Native, and more recently GraphQL, Kubernetes/Docker, Blockchain and GunDB.\n","email":""}}
